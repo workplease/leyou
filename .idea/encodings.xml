@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/leyou-auth/leyou-auth-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-goods-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-item/leyou-item-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-item/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-item/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-user/leyou-user-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyou-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
